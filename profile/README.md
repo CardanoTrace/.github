@@ -1,12 +1,10 @@
-## Hi there 👋
+## Hi there, Welcome to Trace 👋
 
-<!--
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🙋‍♀️ Trace is a product-tracking platform, being developed on the Cardano Blockchain
+🌈 Using web3 and NFT technology, we aim to bring cost-effective blockchain traceability to SMEs
+👩‍💻 To learn more, please refer to [our documentation](https://traces-organization-1.gitbook.io/trace-documentation)
+🍿 Trace will have a testing phase on Cardano's Pre-Production Testnet
+🧙 Get in touch with us on [Twitter](https://twitter.com/CardanoTrace)
+
